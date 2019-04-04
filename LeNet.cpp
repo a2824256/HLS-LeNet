@@ -1,4 +1,4 @@
-#include "LetNet.h"
+#include "LeNet.h"
 
 float expf(float x) {
  x = 1.0 + x / 1024;
