@@ -7,7 +7,7 @@ Using AXI-master protocol to transmit weight with ARM.<br>
 3.LeNet_tb.cpp  —— The testbench of the component.<br>
 
 # Circuit
-![Circuit]<https://github.com/a2824256/HLS-LeNet/blob/master/circuit.png>
+![Circuit](https://github.com/a2824256/HLS-LeNet/blob/master/circuit.png)
 
 # LeNet-Weights-Exporter
 Use GPU to train the network and derive weights.<br>
