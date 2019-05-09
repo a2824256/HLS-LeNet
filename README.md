@@ -1,4 +1,4 @@
-# HLS-CNN
+# HLS-LeNet
 In the updating process...<br>
 Hardware equipment ZYNQ 7035 SoC.<br>
 Using AXI-master protocol to transmit weight with ARM.<br>
