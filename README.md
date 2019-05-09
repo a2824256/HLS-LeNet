@@ -6,7 +6,7 @@ Using AXI-master protocol to transmit weight with ARM.<br>
 2.LeNet.h       —— The header file.<br>
 3.LeNet_tb.cpp  —— The testbench of the component.<br>
 
-# Circuit
+# Circuit(老图，连IP名称都写错了LeNet写成LetNet)
 ![Circuit](https://github.com/a2824256/HLS-LeNet/blob/master/circuit.png)
 
 # LeNet-Weights-Exporter
