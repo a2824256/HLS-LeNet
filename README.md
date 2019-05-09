@@ -7,7 +7,7 @@ Using AXI-master protocol to transmit weight with ARM.<br>
 3.LeNet_tb.cpp  —— The testbench of the component.<br>
 
 # LeNet-Weights-Exporter
-Use GPU to train the network and derive weights.
+Use GPU to train the network and derive weights.<br>
 通过PC训练网络，然后将权重从多维转为一位数组通过ARM传输到FPGA的内部RAM
 https://github.com/a2824256/LeNet-Weights-Exporter
 
