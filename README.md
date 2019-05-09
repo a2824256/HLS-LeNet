@@ -21,3 +21,6 @@ https://blog.csdn.net/a2824256/article/details/89409786
 
 ### XILINX HLS + Vivado + SDK实现通过AXI-Master协议从ARM(PS)传输数组到FPGA(PL)端RAM
 https://blog.csdn.net/a2824256/article/details/89409671
+
+### Future Plan
+1.使用OpenCL重新制作LeNet IP并导出为HLS项目
