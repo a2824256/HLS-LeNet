@@ -8,7 +8,7 @@ Using AXI-master protocol to transmit weight with ARM.<br>
 
 # Circuit
 老图，当时把IP名称写错了，LeNet写成LetNet...
-![Circuit](https://github.com/a2824256/HLS-LeNet/blob/master/circuit.png)
+![Circuit](https://github.com/a2824256/HLS-LeNet/blob/master/111566027919_.pic_hd.jpg)
 
 # LeNet-Weights-Exporter
 Use GPU to train the network and derive weights.<br>
